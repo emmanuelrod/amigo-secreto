@@ -1,4 +1,4 @@
-# Amigo Secreto
+# amigo-secreto
 
 ## Cómo usarlo
 
